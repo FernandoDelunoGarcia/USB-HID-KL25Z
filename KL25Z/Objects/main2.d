@@ -1,0 +1,12 @@
+.\objects\main2.o: main2.c
+.\objects\main2.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h
+.\objects\main2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h
+.\objects\main2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\main2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\main2.o: .\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\main2.o: usb.h
+.\objects\main2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main2.o: usb_descriptors.h
+.\objects\main2.o: fifo.h

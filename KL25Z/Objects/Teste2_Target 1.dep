@@ -1,0 +1,43 @@
+Dependencies for Project 'Teste2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\usb.c)(0x5B4F8E33)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DMKL25Z128xxx4-o .\objects\usb.o --omf_browse .\objects\usb.crf --depend .\objects\usb.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x57F6A168)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F6A168)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6A168)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898E43A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898E43A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898E43A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5B4BBAAD)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F6A168)
+I (usb.h)(0x5B4E6B1D)
+I (BDT.h)(0x5B4D2BF5)
+I (Endpoint.h)(0x5B4D2BF6)
+I (usb_descriptor.h)(0x5B4F3B73)
+F (.\usb.h)(0x5B4E6B1D)()
+F (.\usb_descriptors.c)(0x5B4F91BC)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DMKL25Z128xxx4-o .\objects\usb_descriptors.o --omf_browse .\objects\usb_descriptors.crf --depend .\objects\usb_descriptors.d)
+I (usb_descriptor.h)(0x5B4F3B73)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6A168)
+F (.\main.c)(0x5B4F6DDC)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DMKL25Z128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6A168)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898E43A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898E43A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898E43A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5B4BBAAD)
+I (usb.h)(0x5B4E6B1D)
+I (BDT.h)(0x5B4D2BF5)
+I (Endpoint.h)(0x5B4D2BF6)
+I (usb_descriptor.h)(0x5B4F3B73)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F6A168)
+F (.\BDT.h)(0x5B4D2BF5)()
+F (.\Endpoint.h)(0x5B4D2BF6)()
+F (.\usb_descriptor.h)(0x5B4F3B73)()
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x5644B74A)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x5B4BBAAD)(--c99 -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6A168)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0plus.h)(0x5898E43A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898E43A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898E43A)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5B4BBAAD)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5B4BBAAD)()
